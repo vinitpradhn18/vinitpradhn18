@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vinitpradhn18
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Python, Flask
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me ...
 
